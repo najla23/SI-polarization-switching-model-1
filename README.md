@@ -4,9 +4,9 @@
 
 ## Directory Layout
 
-- `thermodynamics_ingration/` - MD setup for thermodynamic integration
+- `thermodynamic_ingration/` - MD setup for thermodynamic integration
 - `membrane_translocation/` - MD setup for pulling across three different membranes
-- `electronic_structure/` - QM electronic structure calculation of anti-cancer drug molecules
+- `electronic_structure/` - Electronic structure calculations of anti-cancer drug molecules
 - `plots/` - reproduction of plots presented on the article
 
 ## Requirements
