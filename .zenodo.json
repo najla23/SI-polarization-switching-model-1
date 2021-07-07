@@ -1,34 +1,40 @@
 {
-    "title": "Electronic Notebook: Some title...",
-    "description": "This repository contains electronic notebooks (Jupyter) for reproducing the simulation results presented in ...",
+    "title": "Electronic Notebook: Polarized Switching Force Field Model for Membrane Translocation",
+    "description": "This repository contains electronic notebooks (Jupyter) for reproducing the simulation results",
     "creators": [
+        {
+            "name": "Atiyeh Hosseini",
+            "orcid": "0000-0000-0000-0000",
+            "type": "Researcher",
+            "affiliation": "Institute for Nanoscience and Nanotechnology, Sharif University of Technology"
+        },
+        {
+            "name": "Mohammad Reza Ejtehadi",
+            "orcid": "0000-0000-0000-0000",
+            "type": "Researcher",
+            "affiliation": "Institute for Nanoscience and Nanotechnology, Sharif University of Technology"
+        },
         {
             "name": "Mikael Lund",
             "affiliation": "Division of Theoretical Chemistry, Department of Chemistry, Lund University, Sweden",
             "orcid": "0000-0001-8178-8175"
         }
     ],
-    "contributors": [
-        {
-            "name": "Alfons Åberg",
-            "orcid": "0000-0000-0000-0000",
-            "type": "Researcher",
-            "affiliation": "Department of ..."
-        }
-    ],
     "keywords": [
-        "reproducible science",
-        "electronic notebooks"
+        "electronic polarization",
+        "molecular dynamics",
+        "anticancer drug development",
+        "membrane translocation"
     ],
     "related_identifiers": [
         {
             "scheme": "url",
-            "identifier": "https://github.com/mlund/template-for-supporting-information",
+            "identifier": "https://github.com/mlund/SI-polarization-switching-model",
             "relation": "isSupplementTo"
         },
         {
             "scheme": "doi",
-            "identifier": "10.1021/jacs.1c01925",
+            "identifier": "doi-goes-here",
             "relation": "isSupplementTo"
         }
     ],
