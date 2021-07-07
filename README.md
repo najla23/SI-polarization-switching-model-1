@@ -1,14 +1,12 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mlund/template-for-supporting-information/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mlund/SI-polarization-switching-model/HEAD)
 
-# Electronic Notebook
+# Electronic Notebook: Polarized Switching Force Field Model for Membrane Translocation
 
-This is an electronic notebook for the scientific publication
-_Polarized Switching Force Field Model for Membrane Translocation_
+## Directory Layout
 
-## Layout
-
-Description of the directory layout.
-
+- `thermodynamics_ingration/` - MD setup for thermodynamic integration
+- `membrane_translocation/` - MD setup for pulling across three different membranes
+- `electronic_structure/` - QM electronic structure calculation of anti-cancer drug molecules
 - `plots/` - reproduction of plots presented on the article
 
 ## Requirements
