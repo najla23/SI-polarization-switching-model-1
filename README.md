@@ -2,6 +2,10 @@
 
 # Electronic Notebook: Polarized Switching Force Field Model for Membrane Translocation
 
+Supporting information for reproducing results in the scientific article
+[_Electronic polarization effects on membrane translocation of anti-cancer drugs_](https://dx.doi.org/10.1039/d2cp00056c).
+
+
 ## Directory Layout
 
 - `thermodynamic_integration/` - MD setup for thermodynamic integration
