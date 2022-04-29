@@ -1,5 +1,5 @@
 {
-    "title": "Electronic Notebook: Polarized Switching Force Field Model for Membrane Translocation",
+    "title": "Electronic Notebook: Electronic polarization effects on membrane translocation of anti-cancer drugs",
     "description": "This repository contains electronic notebooks (Jupyter) for reproducing the simulation results",
     "creators": [
         {
@@ -34,7 +34,7 @@
         },
         {
             "scheme": "doi",
-            "identifier": "doi-goes-here",
+            "identifier": "10.1039/d2cp00056c",
             "relation": "isSupplementTo"
         }
     ],
