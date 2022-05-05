@@ -8,9 +8,10 @@ Supporting information for reproducing results in the scientific article
 
 ## Directory Layout
 
-- `thermodynamic_integration/` - MD setup for thermodynamic integration
-- `membrane_translocation/` - MD setup for pulling across three different membranes
-- `electronic_structure/` - Electronic structure calculations of anti-cancer drug molecules
+- `Simulations/` - SMD trajectories for umbrella sampling 
+- `Topology-DLPC/` - Topology files for DLPC membrane
+- `Topology-DPPC/` - Topology files for DPPC membrane
+- `Topology-POPC/` - Topology files for POPC membrane 
 - `plots/` - reproduction of plots presented on the article
 
 ## Requirements
