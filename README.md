@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mlund/SI-polarization-switching-model/HEAD)
 
-# Electronic Notebook: Polarized Switching Force Field Model for Membrane Translocation
+# Electronic Notebook: Electronic polarization effects on membrane translocation of anti-cancer drugs
 
 Supporting information for reproducing results in the scientific article
 [_Electronic polarization effects on membrane translocation of anti-cancer drugs_](https://dx.doi.org/10.1039/d2cp00056c).

@@ -1,0 +1,6 @@
+#Extracting windows from trajectories (SMD)
+gmx trjconv -s pull.tpr -f dc-dlpc.xtc -o windows.gro -sep
+gmx grompp -f npt.mdp -c windows.gro -p topol.top -r windows.gro -n index.ndx -o npt-windows.tpr
+gmx mdrun -deffnm npt-windows
+#WHAM
+gmx wham -it tpr-files.dat -if pullf-files.dat -o -hist
